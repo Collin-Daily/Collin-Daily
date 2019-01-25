@@ -1,7 +1,82 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+	<body>
+		<h1>Team INSURE_notsure</h1>
+		<p>This repository is the home of the Spring 2019 C&A IA Capstone team INSURE_notsure (Working name) at the University of Nebraska at Omaha.</p>
+
+		<h2 id="table-of-contents">Table of Contents</h2>
+		<!-- TOC START min:1 max:3 link:true update:true -->
+		<ul>
+			<li><a href="#team-bios">Team Bios</a></li>
+			<li><a href="#project-bids">Project Bids</a></li>
+			<li><a href="#project-proposal">Project Proposal</a></li>
+			<li><a href="#milestone-1">Milestone 1</a></li>
+			<li><a href="#milestone-2">Milestone 2</a></li>
+			<li><a href="#milestone-3">Milestone 3</a></li>
+			<li><a href="#final-report">Final Report</a></li>
+			<li><a href="#tentative-class-schedule">Tentative Class Schedule</a></li>
+		</ul>
+
+		<!-- TOC END -->
+
+		<h2 id="team-bios">Team Bios</h2>
+		<h3>Lisa Bazis</h3>
+		<p>Sample Text</p>
+
+		<h3>Collin Daily</h3>
+		<p>Sample Text</p>
+
+		<h3>Lyle Reinholz</h3>
+		<p>Sample Text</p>
+
+		<h3>Sanjar Hamidi</h3>
+		<p>Sample Text</p>
+
+		<h3>Sarah Noles</h3>
+		<p>Sample Text</p>
+
+		<h2 id="project-bids">Project Bids</h2>
+		<h3>Project Bid 1</h3>
+		<p>Sample Text</p>
+
+		<h2 id="project-proposal">Project Proposal</h2>
+		<p>Sample Text</p>
+
+		<h2 id="milestone-1">Milestone 1</h2>
+		<p>Sample Text</p>
+
+		<h2 id="milestone-2">Milestone 2</h2>
+		<p>Sample Text</p>
+
+		<h2 id="milestone-3">Milestone 3</h2>
+		<p>Sample Text</p>
+
+		<h2 id="final-report">Final Report</h2>
+
+		<h2 id="tentative-class-schedule">Tentative Class Schedule</h2>
+		<p>| Dates | Week | Activity|
+		|——-|——|———|
+		| January 7th | 1 | Course introduction. Cybersecurity is everywhere.|
+		| January 14th | 2 | Thoughts on Software Engineering. Produce and submit bids for review! |
+		| January 21st | 3 | Discuss bids with Dr. Hale, Bids Due January 25th! |
+		| January 28th | 4 | Problem assignment, work on proposals, no class. |
+		| February 4th | 5 | Feeback with Dr. Hale, work on proposals |
+		| February 11th | 6 | Milestone 1 due Febuary 15th, short presentations +  Q/A, random order. Milestone 2 assigned. |
+		| February 18th | 7 | Continue milestone 1 presentations. Work on Milestone 2. |
+		| February 25th | 8 | Work on Milestone 2.|
+		| March 4th | 9 | Work on Milestone 2. |
+		| March 11th | 10 | Work on Milestone 2. |
+		| March 18th | 11 | (Spring Break) No class |
+		| March 25th | 12 | Milestone 2 due March 25th, short presentations + Q/A, random order. Milestone 3 assigned. |
+		| April 1st | 13 | Work on Milestone 3. |
+		| April 8th | 14 | Work on Milestone 3. |
+		| April 15th | 15 | Work on Milestone 3. |
+		| April 22nd | 16 | Final reports due! Final 25minute presentations + 5 minute Q/A, random order. |
+		| April 29th | 17 | Final presentations |</p>
+
+
+
+
+
+	</body>
 </html>
