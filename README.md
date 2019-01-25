@@ -18,7 +18,7 @@ This repository is the home of the Spring 2019 C&A IA Capstone team INSURE_notsu
 Sample text
 
 #### Collin Daily
-Sample text
+Collin Daily is a senior in his last semester studying Cybersecurity at the University of Nebraska at Omaha. His passion is in network security and forensics. After he completes his bachelor’s degree, he will look to start working full time while pursuing his master’s degree.
 
 #### Lyle Reinholz
 Sample text
