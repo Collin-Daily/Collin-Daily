@@ -12,3 +12,37 @@ This repository is the home of the Spring 2019 C&A IA Capstone team INSURE_notsu
 - [Final Report] (#final-report)
 
 <!-- TOC END -->
+
+## Team Bios
+#### Lisa Bazis
+Sample text
+
+#### Collin Daily
+Sample text
+
+#### Lyle Reinholz
+Sample text
+
+#### Sanjar Hamidi
+Sample text
+
+#### Sarah Noles
+Sample text
+
+## Project Bids
+Coming Soon
+
+## Project Proposal
+Coming Soon
+
+## Milestone 1
+Coming Soon
+
+## Milestone 2
+Coming Soon
+
+## Milesotne 3
+Coming Soon
+
+## Final Report
+Coming Soon
