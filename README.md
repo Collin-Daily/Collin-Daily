@@ -21,7 +21,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 # Team INSURE_notsure
-This repository is the home of the Spring 2019 C&A IA Capstone team INSURE_notsure (Working name) at the University of Nebraska at Omaha.
+This repository is the home of the Spring 2019 C&A IA Capstone team INSURE_notsure at the University of Nebraska at Omaha.
 
 ## Team Members
 #### Lisa Bazis
