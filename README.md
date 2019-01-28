@@ -1,4 +1,4 @@
-Table of Contents
+﻿Table of Contents
 =================
 
    * [Team INSURE_notsure](#team-insure_notsure)
@@ -25,19 +25,19 @@ This repository is the home of the Spring 2019 C&A IA Capstone team INSURE_notsu
 
 ## Team Members
 #### Lisa Bazis
-Sample text
+Lisa Bazis is a graduate student in Cybersecurity at the University of Nebraska Omaha.  She currently works in the Information Security Office at the University of Nebraska Medical Center/Nebraska Medicine.  Her background is in network security and risk assessments.  She has a strong understanding of cloud architecture which will help with this INSuRE project.
 
 #### Collin Daily
 Collin Daily is a senior in his last semester studying Cybersecurity at the University of Nebraska at Omaha. His passion is in network security and forensics. After he completes his bachelor’s degree, he will look to start working full time while pursuing his master’s degree. He can be reached through email at cdaily@unomaha.edu
 
 #### Lyle Reinholz
-Sample text
+Lyle Reinholz is a undergraduate student majoring in Cybersecurity and minoring in Computer science. His passion is to be a penetration tester and to be able to make networks more secure in doing so.
 
 #### Sanjar Hamidi
-Sample text
+Sanjar Hamidi is a student of UNO’s integrated Undergraduate/Graduate program. MS in Cybersecurity with concentration in Cyber operations; and BS in Cybersecurity with minors in Computer Science and Management Information Systems. Sanjar is an intern with a security company focusing on cybersecurity integration in softwares currently used by the U.S. government. Sanjar has developed a strong understanding of Forensics Science, and Forensics tools used in the industry; which he will utilize within this INSuRE project. 
 
 #### Sarah Noles
-Sample text
+Sarah Noles is a graduate student studying Cybersecurity at the University of Nebraska at Omaha.  She currently works as a security analyst at a software development company focusing on penetration testing and automation.  She has strong programming and analysis skills that will assist in this graduate capstone.
 
 ## Project Bids
 Coming Soon
