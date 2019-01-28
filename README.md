@@ -40,7 +40,8 @@ Sanjar Hamidi is a student of UNO’s integrated Undergraduate/Graduate program.
 Sarah Noles is a graduate student studying Cybersecurity at the University of Nebraska at Omaha.  She currently works as a security analyst at a software development company focusing on penetration testing and automation.  She has strong programming and analysis skills that will assist in this graduate capstone.
 
 ## Project Bids
-Coming Soon
+[Project Bid 1: Cloud Forensics](https://github.com/Collin-Daily/INSURE_notsure/blob/master/docs/bids/Project%20Bid%20-%20Cloud%20Forensics)
+[Project Bid 2: Improving Cybersecurity Measurement Science] (https://github.com/Collin-Daily/INSURE_notsure/blob/master/docs/bids/Project%20Bid%20-%20Improving%20Cybersecurity%20Measurement%20Science)
 
 ## Project Proposal
 Coming Soon
