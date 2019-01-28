@@ -41,6 +41,7 @@ Sarah Noles is a graduate student studying Cybersecurity at the University of Ne
 
 ## Project Bids
 [Project Bid 1: Cloud Forensics](https://github.com/Collin-Daily/INSURE_notsure/blob/master/docs/bids/Project%20Bid%20-%20Cloud%20Forensics)
+
 [Project Bid 2: Improving Cybersecurity Measurement Science] (https://github.com/Collin-Daily/INSURE_notsure/blob/master/docs/bids/Project%20Bid%20-%20Improving%20Cybersecurity%20Measurement%20Science)
 
 ## Project Proposal
