@@ -9,6 +9,7 @@
             * [Sanjar Hamidi](#sanjar-hamidi)
             * [Sarah Noles](#sarah-noles)
       * [Project Bids](#project-bids)
+      * [Research Page](#research-page)
       * [Project Proposal](#project-proposal)
       * [Milestone 1](#milestone-1)
       * [Milestone 2](#milestone-2)
@@ -43,6 +44,12 @@ Sarah Noles is a graduate student studying Cybersecurity at the University of Ne
 [Project Bid 1: Cloud Forensics](https://github.com/Collin-Daily/INSURE_notsure/blob/master/docs/bids/Project%20Bid%20-%20Cloud%20Forensics)
 
 [Project Bid 2: Improving Cybersecurity Measurement Science](https://github.com/Collin-Daily/INSURE_notsure/blob/master/docs/bids/Project%20Bid%20-%20Improving%20Cybersecurity%20Measurement%20Science)
+
+Update 02/01/19
+Project Bid 2: Improving Cybersecurity Measurement Science was accepted.
+
+## Research Page
+[Research Page](https://github.com/Collin-Daily/INSURE_notsure/blob/master/docs/Research.md)
 
 ## Project Proposal
 Coming Soon
